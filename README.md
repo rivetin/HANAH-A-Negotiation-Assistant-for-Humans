@@ -45,7 +45,7 @@ Negotiator Agent ──► LlamaIndex RAG Service
 | Layer | Description | Technology |
 |-------|--------------|-------------|
 | 🎧 **Frontend** | Voice-first chat interface, transcripts, and file uploads | React + Vite + WebSocket |
-| 🗣️ **Voice ** | Real-time speech | Deepgram 
+| 🗣️ **Voice** | Real-time speech | Deepgram 
 | 🧩 **Agent Orchestration** | Multi-agent flows & state management | LangGraph (LangChain) |
 | 🧾 **OCR & Extraction** | PDF parsing for salary and job data | AWS Textract |
 | 🧠 **Negotiation Brain (RAG)** | Retrieves techniques & examples | LlamaIndex + Pinecone |
